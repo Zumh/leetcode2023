@@ -14,6 +14,7 @@ Output: [1]
 
 def topKFrequent(nums: list[int], k: int) -> list[int]:
     frequency_table = {}
+    # Time Complexity O(n log n) because of sorting
     """
 
     min_heap = []
