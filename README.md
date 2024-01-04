@@ -1,2 +1,2 @@
-# leetcode2023
+# leetcode
 This is my leetcode solutions
